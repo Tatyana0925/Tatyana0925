@@ -1,4 +1,4 @@
-## Hi there 👋
+## Beauty Zone 👋
 
 <!--
 **Tatyana0925/Tatyana0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
